@@ -15,7 +15,6 @@ pip3 install flake8
 
 # Run linting
 python3 -m flake8
-./scripts/xgettext.sh
 
 # Compile zip artifacts
 make
