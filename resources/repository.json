@@ -24,7 +24,7 @@
     "id": "script.elementum.jackett",
     "username": "fugkco",
     "assets": {
-      "zip": "https://github.com/{username}/{repository}/releases/download/v{version}/{id}-{version}.zip"
+      "zip": "https://github.com/{username}/{repository}/releases/download/v{version}/{id}.zip"
     }
   },
   {
